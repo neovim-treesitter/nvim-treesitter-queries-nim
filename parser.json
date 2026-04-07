@@ -1,7 +1,7 @@
 {
-  "lang": "nim",
+  "location": null,
+  "parser_version": "3878440d9398515ae053c6f6024986e69868bb74",
   "url": "https://github.com/alaviss/tree-sitter-nim",
   "semver": false,
-  "parser_version": "3878440d9398515ae053c6f6024986e69868bb74",
-  "location": null
+  "lang": "nim"
 }
